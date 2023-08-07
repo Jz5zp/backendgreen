@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'BackendGreen'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1E0040967B344D4FB234891E9BD5A271 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_33C61C0A607E4B50A47D7C5587F1F9BB }}
           package: .
